@@ -1,3 +1,5 @@
 # US
 Uživatelský software
-napište mi jméno a název seminární práce
+
+Verzovací systém - Základní principy a jejich aplikace v programování
+Tomáš Valenta
